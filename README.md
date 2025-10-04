@@ -1,4 +1,4 @@
-# Actions DE Demo V3
+# Data Saturday Holland 2025 - Demo Repository
 
 This repository contains a sample Data Engineering project that can be deployed using GitHub Actions.
 
